@@ -289,5 +289,33 @@
   margin-bottom: 20px;
   font-size: 15px;
 }
+.footer-dark {
+  background-color: #0f172a;   /* dark navy */
+}
+
+.footer-links li {
+  margin-bottom: 8px;
+}
+
+.footer-links a {
+  color: #bbb;
+  text-decoration: none;
+  font-size: 14px;
+}
+
+.footer-links a:hover {
+  color: #ffffff;
+}
+
+.social-icons a {
+  color: #bbb;
+  margin-left: 15px;
+  font-size: 18px;
+  transition: 0.3s;
+}
+
+.social-icons a:hover {
+  color: #4ade80;   /* green highlight */
+}
 
 
